@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@hello-pangea/dnd": "^16.5.0",
-    "@next/font": "^14.2.28",
+  "@next/font": "^13.4.19",
     "jspdf": "^2.5.1",
     "pdf-img-convert": "^1.2.1",
     "pdf-lib": "^1.17.1",

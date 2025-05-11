@@ -18,6 +18,7 @@
         "typescript": "5.2.2"
     },
     "dependencies": {
+         "@next/font": "^13.4.19",  
         "@hookform/resolvers": "3.9.0",
         "@prisma/client": "6.3.0",
         "@radix-ui/react-accordion": "1.2.0",
